@@ -1,1 +1,9 @@
 #!/usr/bin/python3
+
+x = 2
+y = 3
+
+print (x +y)
+
+print ( x - y )
+
